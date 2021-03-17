@@ -1,0 +1,509 @@
+00:00:54.356,00:00:57.356
+Răzvan Axinia: Cred ca iar ati oprit sunetul
+
+00:02:37.301,00:02:40.301
+Wilfried Nikolas Derscanu: unde raspundem?
+
+00:02:39.872,00:02:42.872
+Wilfried Nikolas Derscanu: ca am intarziat
+
+00:03:44.877,00:03:47.877
+Wilfried Nikolas Derscanu: da
+
+00:03:52.505,00:03:55.505
+Mihai Emanuel Spiţă: da, cred
+
+00:04:47.847,00:04:50.847
+Răzvan Axinia: Aveti sunetul oprit
+
+00:05:00.399,00:05:03.399
+Wilfried Nikolas Derscanu: Obiect()
+A() i=1
+B() j=2
+C() k=3
+
+00:05:01.273,00:05:04.273
+Radu Flocea: Object()
+A() i=1
+B() j=2
+C() k=3
+
+00:05:01.763,00:05:04.763
+Adi Dascaliuc: Object()
+A() i=1
+B() j=2
+C() k=3
+
+00:05:04.204,00:05:07.204
+Andreia Hreceniuc: Object()
+A() i=1
+B() j=2
+C() k=3
+
+00:05:06.064,00:05:09.064
+Cristi Călin Mandici: 2 3 4
+
+00:05:06.528,00:05:09.528
+Mihai Emanuel Spiţă: Object()
+A() i=1
+
+00:05:06.942,00:05:09.942
+Damaris Ligia Gheteș: Se afiseaza: Object() A() i=1 B() j=2 C() k=3
+
+00:05:07.021,00:05:10.021
+Andrei Tudor Ventuneac: Object()
+A() i=1
+B() j=2
+C() k=3
+
+00:05:10.237,00:05:13.237
+Emanuel Ionuţ Baciu: Object()
+A() i=1
+B() j=2
+C() k=3
+
+00:05:11.760,00:05:14.760
+Cosmin Constantin Bîrzu: Se afiseaza : Object() A() i=1 B() j=2 C() k=3
+
+00:05:12.587,00:05:15.587
+Cristina Irina Cosovan: Object()
+A() i=1
+B() j=2
+C() k=3
+
+00:05:13.412,00:05:16.412
+Vasile Marian Pascal: Object
+A i=1
+B j=2
+C k=3
+
+00:05:14.186,00:05:17.186
+Ioan Sebastian Crăciun: Obiect()
+A() i=1
+B() j=2
+C() k=3
+
+00:05:15.998,00:05:18.998
+Maria Beilic: Object()
+A() i=1
+B() j=2
+C() k=3
+
+00:05:16.851,00:05:19.851
+Alexandru Prisacaru: Se afiseaza fiecare println din fiecare clasa.
+
+00:05:21.900,00:05:24.900
+Cristina Parasca: 3
+
+00:05:25.195,00:05:28.195
+Andrei Hîncu: Obiect()
+A() i=1
+B() j=2
+C() k=3
+
+00:05:55.559,00:05:58.559
+Răzvan Sebastian Ailenei: Object()
+A() i=1
+B() j=2
+C() k=3
+
+00:06:28.695,00:06:31.695
+Cristian Silviu Istrate: cred ca apasati F5 fara Fn si opreste sunetul
+
+00:08:43.005,00:08:46.005
+Adi Dascaliuc: iar aveti sonorul oprit
+
+00:41:50.025,00:41:53.025
+Camelia Cojocaru: Cred ca aveti din nou sonorul oprit
+
+00:41:57.885,00:42:00.885
+Ştefan Şovea: sau e prea incet
+
+00:41:59.384,00:42:02.384
+Adi Dascaliuc: iarasi nu ne auziti
+
+00:42:02.720,00:42:05.720
+Adi Dascaliuc: noi va auzim
+
+00:42:07.207,00:42:10.207
+Ştefan Şovea: va auzim
+
+00:45:13.518,00:45:16.518
+Alexandru Vatamaniuc: da va auzim
+
+00:45:13.978,00:45:16.978
+Maria Mărginean: Va auzim
+
+00:45:17.433,00:45:20.433
+Adi Dascaliuc: va auzim
+
+00:53:13.996,00:53:16.996
+Wilfried Nikolas Derscanu: gata
+
+00:56:55.685,00:56:58.685
+Wilfried Nikolas Derscanu: // metoda main apelata statica deci x7 e la final banuiesc
+x8
+main: se va executa E obje = new E();
+x1
+x3
+D()
+x2
+x4
+x5
+B()
+x6
+x9
+x7
+
+00:56:56.207,00:56:59.207
+Adi Dascaliuc: Eroare in main la Initializare x9 = newInitializare(9);
+
+00:56:59.896,00:57:02.896
+Călin Sebastian Galan: x8 main: se va executa E obje = new E(); x1 x3 D() x2 x4 x5 B() x6 x9 x7
+
+00:57:05.144,00:57:08.144
+Răzvan Axinia: Se creeaza obiectul x7
+
+00:57:07.174,00:57:10.174
+Damaris Ligia Gheteș: x8 main: se va executa E obje = new E()
+x1 x3 D() x2 x4 x5 B() x6 x9 x7
+
+00:57:07.400,00:57:10.400
+Maria Mărginean: x7
+x8
+main:se va executa E obj = new();
+x4
+x1
+x3
+D()
+x2
+x5
+B()
+x6
+x9
+
+00:57:08.121,00:57:11.121
+Alexandru Constantin Vizitiu: 
+x7
+x8
+"se va executa..."
+x5
+x6
+x9
+
+00:57:08.926,00:57:11.926
+Mihai Emanuel Spiţă: x8
+main: se va executa E obje = new E();
+x5
+B()
+x6
+x9
+x7
+
+00:57:09.648,00:57:12.648
+Ştefan Şovea: X1 
+X3 
+X7
+X8
+X2 
+X4 
+X5 
+B()
+X6
+X9
+
+00:57:10.999,00:57:13.999
+Andreia Hreceniuc: 
+x8
+main: se va executa E obje = new E();
+x1
+D()
+x2
+x3
+x4
+x5
+B()
+x6
+x9
+x7
+
+00:57:14.860,00:57:17.860
+Ion Murzac: x7
+x8
+main: se va executa+E obj=new E();
+x4
+x5
+B()
+x6
+x1
+D()
+x2
+x3
+x9
+
+00:57:15.000,00:57:18.000
+Andrei Tudor Ventuneac: X1 
+X3 
+X7
+X8
+X2 
+X4 
+X5 
+B()
+X6
+X9
+
+00:57:15.105,00:57:18.105
+Cristina Irina Cosovan: x8 main se va executa Eobj = new E()
+x4 
+x1 x3
+d() x2
+
+x5 b()
+x6
+
+00:57:16.290,00:57:19.290
+Cosmin Maruneac:  x8 
+main:Se va executa D obje = new E();
+
+x1
+x3
+D()
+x2
+
+x4 
+x5 
+B() 
+x6
+x9
+x7 
+
+00:57:27.105,00:57:30.105
+Cristi Călin Mandici: main: se va executa E obje = new E();
+x1 x3 D() x2 x4 x5 B() x6 x9 x7
+
+01:47:41.482,01:47:44.482
+Alexandru Vatamaniuc: da
+
+02:29:01.420,02:29:04.420
+Vasile Marian Pascal: Pascal Vasile-Marian, 3133C
+
+02:29:02.491,02:29:05.491
+Cristina Irina Cosovan: Cosovan Cristina Irina
+
+02:29:02.544,02:29:05.544
+Cristian Silviu Istrate: Istrate Cristain
+
+02:29:03.252,02:29:06.252
+Constantin Ududec: Ududec Constantin 3131C
+
+02:29:03.266,02:29:06.266
+Alexandru Constantin Vizitiu: Vizitiu Alexandru 3133C
+
+02:29:03.433,02:29:06.433
+Maria Mărginean: Marginean Maria-Grupa 3133b
+
+02:29:04.095,02:29:07.095
+Andrei Tudor Ventuneac: Andrei Ventuneac 
+
+02:29:04.111,02:29:07.111
+Florinel Alexandru Tanase: Tanase Florinel Alexandru 3123b
+
+02:29:04.280,02:29:07.280
+Adi Dascaliuc: Dascaliuc Adi - 3133C
+
+02:29:04.586,02:29:07.586
+Sebastian Amarandei: Amarandei Sebastian, grupa 3132A
+
+02:29:04.785,02:29:07.785
+Cristi Călin Mandici: Cristi Mandici
+
+02:29:04.856,02:29:07.856
+Ştefan Şovea: Sovea Stefan 3131C
+
+02:29:05.159,02:29:08.159
+Andrei Hîncu: Hincu Andrei 3133A
+
+02:29:05.266,02:29:08.266
+Răzvan Sebastian Ailenei: Prezent
+
+02:29:05.563,02:29:08.563
+Radu Ştefan Minescu: Minescu Radu Stefan 3133c
+
+02:29:05.820,02:29:08.820
+Alexandru Prisacaru: Prisacaru Alexandru - gr 3133b
+
+02:29:06.262,02:29:09.262
+Tudor Horomnea: Horomnea Tudor
+
+02:29:06.285,02:29:09.285
+Răzvan Axinia: Axinia Razvan
+
+02:29:06.439,02:29:09.439
+Petru Ilie Chindriş: Chindriș Petru 3131a
+
+02:29:06.750,02:29:09.750
+Sabin Mihai Bejinari: Bejinari Sabin-Mihai, 3131B
+
+02:29:06.997,02:29:09.997
+Radu Flocea: Radu Flocea, 3123B
+
+02:29:07.401,02:29:10.401
+Alina Ioana Huțan: Hutan Alina 3131C
+
+02:29:07.426,02:29:10.426
+Alexandru Lazăr Serediuc: Serediuc Alexandru-Lazar 3133b
+
+02:29:07.524,02:29:10.524
+Ionuț George Nicolaiciuc: Nicolaiciuc Ionut-George, 3131C
+
+02:29:08.374,02:29:11.374
+Cosmin Maruneac: Maruneac Cosmin 3132B
+
+02:29:08.506,02:29:11.506
+Gabriele Andrea Blasciuc: Blasciuc Gabriele-Andrea
+
+02:29:08.541,02:29:11.541
+Andreia Hreceniuc: Hreceniuc Andreia, 3133a
+
+02:29:08.770,02:29:11.770
+David Filip: Filip David, 3132A
+
+02:29:09.456,02:29:12.456
+Ion Murzac: ION MURZAC 
+
+02:29:09.623,02:29:12.623
+Lorena Dumitriţa Balan: Balan Lorena Dumitrita 3133a
+
+02:29:10.966,02:29:13.966
+Alin Petru Tanasă: Tanasa Alin Petru - 3131C
+
+02:29:11.194,02:29:14.194
+Alexandru Vatamaniuc: Vatamaniuc Alexandru=Grupa 3132B
+
+02:29:11.333,02:29:14.333
+Andrei Cojocaru: Cojocaru Andrei 3133A
+
+02:29:11.386,02:29:14.386
+Marcus Lemuel Apăscăriţei: Marcus Apascaritei
+
+02:29:11.448,02:29:14.448
+Adrian Mihai Costeniuc: Costeniuc Adrian-Mihai- 3131A
+
+02:29:11.643,02:29:14.643
+Mihai Emanuel Spiţă: Spita Mihai-Emanuel , 3133A
+
+02:29:11.758,02:29:14.758
+Constantin Onofrei: Onofrei Constantin 3131C
+
+02:29:12.143,02:29:15.143
+Emanuel Bogdan Ungurean: Ungurean Emanuel-Bogdan
+
+02:29:12.895,02:29:15.895
+Damaris Ligia Gheteș: Ghetes Damaris, grupa 3133b
+
+02:29:13.838,02:29:16.838
+Călin Sebastian Galan: Galan Călin Sebastian
+
+02:29:13.968,02:29:16.968
+Wilfried Nikolas Derscanu: Wilfried-Derscanu 3133A
+
+02:29:14.452,02:29:17.452
+Cosmin Constantin Bîrzu: Birzu Cosmin-Constantin grupa 3133B
+
+02:29:14.848,02:29:17.848
+Emanuel Ionuţ Baciu: Baciu Emanuel-Ionut 3132b
+
+02:29:15.124,02:29:18.124
+Constantin Ududec: Constantin Ududec 3131C
+
+02:29:15.472,02:29:18.472
+Maria Beilic: Beilic Maria, 3132A
+
+02:29:17.548,02:29:20.548
+Răzvan Sebastian Ailenei: Ailenei Razvan Sebastian 3132a
+
+02:29:17.597,02:29:20.597
+Denis Maria Boghean: Boghean denis maria 3132b
+
+02:29:18.303,02:29:21.303
+Cristina Parasca: Parasca Cristina, 3131B
+
+02:29:18.332,02:29:21.332
+Vasile Sebastian Păduraru: Paduraru Vasile Sebastian - 3131b
+
+02:29:19.047,02:29:22.047
+Anastasia Ursu: Ursu Anastasia grupa 3121B
+
+02:29:19.730,02:29:22.730
+Delia Polocoşer: Polocoșer Deli 3132
+
+02:29:30.291,02:29:33.291
+Iuliana Andreea Cotos: Cotos Iuliana - Andreea 3131B
+
+02:29:30.507,02:29:33.507
+Claudiu Ioan Vîntu: Vintu Claudiu Ioana 3132b
+
+02:29:31.830,02:29:34.830
+Cristian Silviu Istrate: Istrate Cristian 3133C
+
+02:29:32.752,02:29:35.752
+Maria Mărginean: Vineri?
+
+02:29:34.711,02:29:37.711
+Emanuel Bogdan Ungurean: Ungurean Emanuel-Bogdan, 3131B
+
+02:29:34.829,02:29:37.829
+Vasile Sebastian Păduraru: miercuri ?
+
+02:29:38.669,02:29:41.669
+Tiberiu Robert Beşleagă: Besleaga Tiberiu 3132 A
+
+02:29:46.306,02:29:49.306
+Cristina Irina Cosovan: vineri
+
+02:29:46.426,02:29:49.426
+Claudiu Ioan Vîntu: Vintu Claudiu Ioan 3132b**
+
+02:29:48.883,02:29:51.883
+Lucian Andrei Miriuţă: Miriuță Lucian-Andrei, 3131c
+
+02:30:05.571,02:30:08.571
+Cosmin Maruneac: miercuri
+
+02:30:06.304,02:30:09.304
+Emanuel Bogdan Ungurean: o zi buna!
+
+02:30:06.343,02:30:09.343
+Alexandru Vatamaniuc: ozi buna
+
+02:30:07.150,02:30:10.150
+Maria Mărginean: O zi buna!
+
+02:30:07.311,02:30:10.311
+Lorena Dumitriţa Balan: o zi buna!
+
+02:30:07.632,02:30:10.632
+Sebastian Amarandei: La revedere
+
+02:30:08.933,02:30:11.933
+Constantin Ududec: Zi buna!
+
+02:30:09.991,02:30:12.991
+Răzvan Sebastian Ailenei: La revedere! 
+
+02:30:11.068,02:30:14.068
+Alexandru Lazăr Serediuc: La revedere
+
+02:30:11.563,02:30:14.563
+Mihai Emanuel Spiţă: o zi buna 
+
+02:30:11.898,02:30:14.898
+Denis Maria Boghean: La revedere
+
+02:30:12.114,02:30:15.114
+Florinel Alexandru Tanase: o zi buna
+
+02:30:18.018,02:30:21.018
+Ion Murzac: O ZI BUNA
+

@@ -1,0 +1,38 @@
+00:24:57.238,00:25:00.238
+Cristina Irina Cosovan: dor mie mi s-a blocat prezentarea?
+
+00:25:03.890,00:25:06.890
+Constantin Onofrei: da
+
+00:25:05.706,00:25:08.706
+Gheorghiţă Croitor: da... la noi e ok
+
+00:50:18.119,00:50:21.119
+Cristina Irina Cosovan: pot sa iau 5 minute pauza?
+
+00:58:51.938,00:58:54.938
+Petru Ilie Chindriş: revin in 10 minute
+
+01:30:39.150,01:30:42.150
+Gheorghiţă Croitor:  return registrulMatricol.values()
+        .stream()
+        .collect(Collectors.groupingBy(Student::getFacultate, Collectors.counting()));
+
+01:59:05.201,01:59:08.201
+Constantin Onofrei: Onofrei Constantin 3131C
+
+01:59:06.201,01:59:09.201
+Cristina Irina Cosovan: Cosovan Cristina- Irina
+
+01:59:08.055,01:59:11.055
+Petru Ilie Chindriş: chindris petru
+
+01:59:30.712,01:59:33.712
+Adrian Mihai Costeniuc: Costeniuc Adrian-3131A
+
+01:59:34.193,01:59:37.193
+Alexandru Tăuteanu: Tauteanu Alexandru
+
+02:06:32.948,02:06:35.948
+Gheorghiţă Croitor: Croitor Gheorghita
+

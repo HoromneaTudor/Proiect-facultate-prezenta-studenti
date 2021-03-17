@@ -1,0 +1,120 @@
+00:04:03.298,00:04:06.298
+Lucian Andrei Miriuţă: Nu va mai auziți
+
+00:10:58.554,00:11:01.554
+Gheorghiţă Croitor: Am terminat primul punct
+
+00:12:20.541,00:12:23.541
+Ştefan Sebastian Tofan: FIESC ESTE O FACULTATE CARE TE INTELEGE SI TE FACE SA INTELEGI.
+MERITA SA-TI FACI STUDIILE AICI.
+
+00:13:34.418,00:13:37.418
+Ştefan Sebastian Tofan: Am terminat primul punct
+
+00:14:48.478,00:14:51.478
+Cristina Parasca: am terminat
+
+00:14:53.065,00:14:56.065
+Cristina Parasca: primul punct
+
+00:20:01.990,00:20:04.990
+Sabin Mihai Bejinari: am terminat primul punct
+
+00:20:10.486,00:20:13.486
+Cornel Ciprian Sava: Am terminat primul punct
+
+00:21:06.913,00:21:09.913
+Iulisa Maria Zbranca: am terminat primul punct
+
+00:21:47.903,00:21:50.903
+Vasile Sebastian Păduraru: am terminat primul punct
+
+00:23:12.257,00:23:15.257
+Anastasia Ursu: am terminat primul punct
+
+00:24:10.772,00:24:13.772
+Andrei Hulubină: am terminat primul punct
+
+00:25:59.158,00:26:02.158
+Iuliana Andreea Cotos: Am terminat primul punct
+
+00:47:21.665,00:47:24.665
+Vasile Sebastian Păduraru: Pot sa va dau share screen ? Ca nu am inteles ce mai trebuie sa fac
+
+00:47:24.273,00:47:27.273
+Vasile Sebastian Păduraru: si cum sa fac
+
+00:47:41.684,00:47:44.684
+Vladimir Dorif: stunge microfonu , face multa galagie
+
+00:48:11.344,00:48:14.344
+Vasile Sebastian Păduraru: bine
+
+00:51:10.463,00:51:13.463
+Vasile Sebastian Păduraru: primul l-am facut
+
+00:55:37.332,00:55:40.332
+Vasile Sebastian Păduraru: de auzit va aud
+
+00:55:41.799,00:55:44.799
+Vasile Sebastian Păduraru: dar se pare ca am probleme cu microfonul
+
+00:56:15.024,00:56:18.024
+Vladimir Dorif: indata termin pinctu 1
+
+01:01:30.604,01:01:33.604
+Anastasia Ursu: sunt la 2
+
+01:01:40.115,01:01:43.115
+Vladimir Dorif: Da nu e mai usor sa creem un array care contine sirul in ordine alfabetica?
+
+01:02:00.863,01:02:03.863
+Vladimir Dorif: dupa fiecare litera o comparam cu sirul si o mutam la +5
+
+01:03:27.213,01:03:30.213
+Vladimir Dorif: e doar indicatie_
+
+01:03:33.698,01:03:36.698
+Vladimir Dorif: mie mi-a iesit
+
+01:03:37.623,01:03:40.623
+Vladimir Dorif: in orice caz
+
+01:03:56.970,01:03:59.970
+Vladimir Dorif: da
+
+01:04:06.924,01:04:09.924
+Vladimir Dorif: asta la a doua parte m-am gandit sa fac
+
+01:05:31.058,01:05:34.058
+Stefan-Gheorghe PENTIUC: int deplas = 10;
+codificare(“fisier_clar.txt”, “fis_cifrat.txt”, deplas);
+// ....................................................
+
+String s = citireMinimNCaractere(“fis_cifrat.txt”, 100);
+for(int d=1; d<26;d++){
+	System.out.println(d + ”: ” + Cifru.Cezar(s, d) );
+}
+// care este deplasarea corecta ? (dcorect)
+codificare(“fisier_cifrat.txt”, “fis_decifrat.txt”, dcorect);
+
+
+01:18:00.393,01:18:03.393
+Stefan-Gheorghe PENTIUC: q = 14,19%  r = 12,90%  j = 10,32%  z = 9,03%  p = 8,39%  u = 7,10%  w = 7,10%  i = 4,52%  k = 4,52%  b = 3,87%  c = 2,58%  l = 2,58%  o = 2,58%  v = 2,58%  t = 1,94%  x = 1,94%  e = 1,29%  g = 1,29%  n = 1,29%  
+
+
+01:26:39.639,01:26:42.639
+Gheorghiţă Croitor: ma scuzati 5 min
+
+01:29:49.027,01:29:52.027
+Vladimir Dorif: Am terminat
+
+01:40:52.525,01:40:55.525
+Cristina Parasca: am terminat si eu codificarea de la punctul 2
+
+01:47:50.238,01:47:53.238
+Anastasia Ursu: O zi buna!
+
+01:47:59.074,01:48:02.074
+Iuliana Andreea Cotos: O zi buna!
+

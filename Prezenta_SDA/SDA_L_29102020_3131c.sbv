@@ -1,0 +1,134 @@
+00:37:16.932,00:37:19.932
+Valentin Boghean: Am terminat Demo Cutii, trec la Demo Jucarii
+
+00:40:39.920,00:40:42.920
+Alin Petru Tanasă: Am terminat demo cutii
+
+00:41:40.533,00:41:43.533
+Tudor Horomnea: terminat
+
+00:41:46.539,00:41:49.539
+Tudor Horomnea: demo cutii
+
+00:42:12.099,00:42:15.099
+Sebastian Amarandei: Am terminat demo cutii
+
+00:44:46.442,00:44:49.442
+Ştefan Şovea: Am terminat demo cutii
+
+00:44:50.184,00:44:53.184
+Andrei Tudor Ventuneac: am terminat demo cutii
+
+00:46:05.978,00:46:08.978
+Constantin Onofrei: Am terminat demo cutii
+
+01:01:42.296,01:01:45.296
+Stefan-Gheorghe PENTIUC: public abstract class Jucarie {
+    private double dimensiuni[] = new double[3];
+    public abstract TipCutie getTipCutie();
+    public abstract double getPret();
+
+    public Jucarie(double l1, double l2, double l3) {
+        this.dimensiuni[0] = l1;
+        this.dimensiuni[1] = l2;
+        this.dimensiuni[2] = l3;
+    }
+    public double[] getDimensiuni() {
+                return dimensiuni;
+    }
+}
+
+01:06:58.270,01:07:01.270
+Constantin Ududec: Am terminat demo Cutii
+
+01:10:02.652,01:10:05.652
+Tudor Horomnea: gata demo Jucarii
+
+01:14:27.226,01:14:30.226
+Sandu Jitari: Se vede
+
+01:14:31.013,01:14:34.013
+Sandu Jitari: Si te auzim
+
+01:18:04.435,01:18:07.435
+Alin Petru Tanasă: gata demo jucarii
+
+01:21:15.701,01:21:18.701
+Constantin Onofrei: Am terminat demo jucarii
+
+01:22:57.369,01:23:00.369
+Cristina Irina Cosovan: Am terminat si eu cutii si jucarii
+
+01:29:18.322,01:29:21.322
+Sandu Jitari: Te auzim
+
+01:49:29.021,01:49:32.021
+Stefan-Gheorghe PENTIUC: public class RolaPanglica {
+    private double costUnitateLungime;
+    private double disponibil;  //cm
+    private static RolaPanglica  rola=null;
+
+    private RolaPanglica(double costUnitateLungime, double disponibil) {
+        this.costUnitateLungime = costUnitateLungime;
+        this.disponibil = disponibil;
+    }
+
+    public static RolaPanglica getRola() {
+        if (rola==null)
+            rola = new RolaPanglica(0.1, 10000);
+        return rola;
+    }
+
+    public double getCostUnitateLun
+
+01:50:00.627,01:50:03.627
+Andrei Tudor Ventuneac: Ventuneac Andrei 3131C
+
+01:50:03.732,01:50:06.732
+Sebastian Amarandei: Amarandei Sebastian - Grupa 3132A
+
+01:50:04.657,01:50:07.657
+Ştefan Şovea: Sovea Stefan, 3131C
+
+01:50:05.370,01:50:08.370
+Constantin Ududec: Constantin Ududec 3131C
+
+01:50:05.512,01:50:08.512
+Ionuț George Nicolaiciuc: Nicolaiciuc Ionut-George 3131C
+
+01:50:06.741,01:50:09.741
+Sandu Jitari: Jitari Sandu 3131C
+
+01:50:10.193,01:50:13.193
+Tudor Horomnea: Horomnea Tudor 3131A
+
+01:50:13.274,01:50:16.274
+Cristina Irina Cosovan: Cosovan Cristina-Irina, 3131A
+
+01:50:13.806,01:50:16.806
+Constantin Onofrei: Onofrei Constantin 3131C
+
+01:50:15.088,01:50:18.088
+Valentin Boghean: Boghean Valentin 3131C
+
+01:50:22.781,01:50:25.781
+Vladimir Dorif: Dorif Vladimir 3141A
+
+01:50:27.276,01:50:30.276
+Alin Petru Tanasă: Tanasa Alin Petru 3131C
+
+01:50:30.497,01:50:33.497
+Andrei Croitoriu: Croitoriu Andrei 3131C
+
+01:50:34.226,01:50:37.226
+Andreea Cristina Munteanu: Munteanu Andreea-Cristina (CR-3143B)
+
+01:59:18.915,01:59:21.915
+Sandu Jitari: O zi buna sa aveți
+
+01:59:23.328,01:59:26.328
+Sebastian Amarandei: La revedere
+
+01:59:26.020,01:59:29.020
+Constantin Ududec: o zi buna!
+

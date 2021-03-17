@@ -1,0 +1,184 @@
+00:01:59.164,00:02:02.164
+Stefan-Gheorghe PENTIUC: s-a intamplat ceva. Voi iesi si voi reveni.
+
+00:04:46.760,00:04:49.760
+Ştefan Şovea: Diferenta e mai mult de cum gasesti VM options, dar tutorialul de pe site e actualizat
+
+00:05:01.340,00:05:04.340
+Ştefan Şovea: Asta e comanda, cu calea fiecaruia in loc de *path*
+
+00:05:04.912,00:05:07.912
+Ştefan Şovea: --module-path *path* --add-modules javafx.controls,javafx.fxml --add-exports javafx.graphics/com.sun.javafx.sg.prism=ALL-UNNAMED
+
+00:21:34.414,00:21:37.414
+Stefan-Gheorghe PENTIUC: https://gluonhq.com/products/javafx/
+
+00:23:49.128,00:23:52.128
+Stefan-Gheorghe PENTIUC: Ati dezarhivat javafx ?
+
+00:24:10.451,00:24:13.451
+Constantin Ududec: da
+
+00:24:11.877,00:24:14.877
+Ionuț George Nicolaiciuc: da
+
+00:24:13.593,00:24:16.593
+Constantin Onofrei: da
+
+00:24:14.537,00:24:17.537
+Ştefan Sebastian Tofan: da\
+
+00:24:39.464,00:24:42.464
+Sabin Mihai Bejinari: da
+
+00:24:42.528,00:24:45.528
+Andreea Cristina Munteanu: da
+
+00:24:59.025,00:25:02.025
+Ştefan Şovea: am instalat
+
+00:25:02.140,00:25:05.140
+Andrei Tudor Ventuneac: am instalat
+
+00:25:07.039,00:25:10.039
+Valentin Boghean: Am instalat
+
+00:25:07.958,00:25:10.958
+Sebastian Amarandei: Da
+
+00:25:36.711,00:25:39.711
+Danut Sacu: Da
+
+00:25:47.419,00:25:50.419
+Sandu Jitari: Da
+
+00:25:58.403,00:26:01.403
+Valentin Boghean: voi aveti probleme la  btn.SetOnAction?
+
+00:25:58.471,00:26:01.471
+Sandu Jitari: Am reusit acuma
+
+00:26:14.125,00:26:17.125
+Cristina Irina Cosovan: si eu
+
+00:37:22.252,00:37:25.252
+Stefan-Gheorghe PENTIUC: --module-path CALE --add-modules javafx.controls,javafx.fxml
+
+
+00:46:33.444,00:46:36.444
+Constantin Onofrei: DA
+
+00:46:38.140,00:46:41.140
+Ionuț George Nicolaiciuc: da
+
+00:46:40.513,00:46:43.513
+Ştefan Sebastian Tofan: da
+
+00:46:41.232,00:46:44.232
+Sabin Mihai Bejinari: da
+
+00:46:46.115,00:46:49.115
+Andreea Cristina Munteanu: da
+
+00:47:05.482,00:47:08.482
+Stefan-Gheorghe PENTIUC: A aparut fereastra HelloWorld ?
+
+00:47:25.974,00:47:28.974
+Constantin Onofrei: da
+
+00:47:27.991,00:47:30.991
+Ştefan Sebastian Tofan: da
+
+00:47:34.404,00:47:37.404
+Sandu Jitari: Da
+
+00:47:40.163,00:47:43.163
+Constantin Ududec: da
+
+00:47:54.123,00:47:57.123
+Sabin Mihai Bejinari: da
+
+00:49:38.005,00:49:41.005
+Danut Sacu: --module-path D:\Facultate_2020_2021\Structuri de date\openjfx-11.0.2_windows-x64_bin-sdk\javafx-sdk-11.0.2\lib --add-modules javafx.controls,javafx.fxml --add-exports javafx.graphics/com.sun.javafx.sg.prism=ALL-UNNAMED
+
+00:55:10.837,00:55:13.837
+Danut Sacu: C:\Users\danut\.jdks\openjdk-15.0.1\bin\java.exe --module-path D:\Facultate_2020_2021\Structuri de date\openjfx-11.0.2_windows-x64_bin-sdk\javafx-sdk-11.0.2\lib --add-modules javafx.controls,javafx.fxml --add-modules javafx.base,javafx.graphics --add-reads javafx.base=ALL-UNNAMED --add-reads javafx.graphics=ALL-UNNAMED "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\lib\idea_rt.jar=59811:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\bin" -Dfi
+
+00:56:41.086,00:56:44.086
+Danut Sacu: --module-path D:\Facultate_2020_2021\Structuri de date\openjfx-11.0.2_windows-x64_bin-sdk\javafx-sdk-11.0.2\lib --add-modules javafx.controls,javafx.fxml
+
+00:57:57.392,00:58:00.392
+Danut Sacu: --module-path "D:\Facultate_2020_2021\Structuri de date\openjfx-11.0.2_windows-x64_bin-sdk\javafx-sdk-11.0.2\lib" --add-modules javafx.controls,javafx.fxml
+
+00:58:10.207,00:58:13.207
+Danut Sacu: Pentriu cale cu spatiu se recomanda folosirea ghilimelelor 
+
+00:59:43.350,00:59:46.350
+Danut Sacu: DA! Merge
+
+00:59:57.248,01:00:00.248
+Sebastian Amarandei: A mers, am uitat sa pun "da"
+
+01:00:16.803,01:00:19.803
+Andreea Cristina Munteanu: am reusit si eu doar ca am scris mai sus de intrebarea dumneavoastra
+
+01:00:17.447,01:00:20.447
+Cristina Irina Cosovan: da
+
+01:00:31.070,01:00:34.070
+Ionuț George Nicolaiciuc: da
+
+01:31:03.282,01:31:06.282
+Sandu Jitari: Eu sunt de pe telefon conectat
+
+01:31:44.280,01:31:47.280
+Sandu Jitari: Da desigur , am putut sa deschid meniul, acuma lucrez mai departe
+
+01:34:30.523,01:34:33.523
+Ştefan Sebastian Tofan: A aparut o urgenta, revin.
+
+01:41:50.285,01:41:53.285
+Sandu Jitari: Prezent
+
+01:46:21.598,01:46:24.598
+Andrei Tudor Ventuneac: Andrei Ventuneac 3131C
+
+01:46:25.104,01:46:28.104
+Sebastian Amarandei: Amarandei Sebastian 3132A
+
+01:46:29.373,01:46:32.373
+Ştefan Şovea: Sovea Stefan 3131C
+
+01:46:30.532,01:46:33.532
+Constantin Ududec: Constantin Ududec 3131C
+
+01:46:30.829,01:46:33.829
+Cristina Irina Cosovan: Cosovan Cristina-Irina, 3131A
+
+01:46:31.171,01:46:34.171
+Constantin Onofrei: Onofrei Constantin 3131C
+
+01:46:33.583,01:46:36.583
+Sabin Mihai Bejinari: Bejinari Sabin-Mihai 3131B
+
+01:46:34.077,01:46:37.077
+Ionuț George Nicolaiciuc: Nicolaiciuc Ionut-George 3131C
+
+01:46:34.781,01:46:37.781
+Valentin Boghean: Boghean Valentin 3131C
+
+01:46:36.949,01:46:39.949
+Alin Petru Tanasă: Tanasa Alin Petru 3131C
+
+01:46:40.251,01:46:43.251
+Danut Sacu: SACU DANUT (AN RECUPERARE CREDITE)
+
+01:46:47.342,01:46:50.342
+Constantin Ududec: O zi buna!
+
+01:46:53.409,01:46:56.409
+Sandu Jitari: Jitari Sandu 3131C
+
+01:46:56.396,01:46:59.396
+Sandu Jitari: La revedere
+

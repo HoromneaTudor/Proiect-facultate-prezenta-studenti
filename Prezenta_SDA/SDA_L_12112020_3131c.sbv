@@ -1,0 +1,150 @@
+00:20:07.564,00:20:10.564
+Sebastian Amarandei: FIESC ESTE O FACULTATE CARE TE INTELEGE SI TE FACE SA INTELEGI.
+
+00:20:29.266,00:20:32.266
+Ştefan Şovea: am terminat
+
+00:20:29.743,00:20:32.743
+Andrei Tudor Ventuneac: terminat
+
+00:20:32.423,00:20:35.423
+Valentin Boghean: am terminat
+
+00:20:32.881,00:20:35.881
+Sebastian Amarandei: terminat
+
+00:20:34.577,00:20:37.577
+Ionuț George Nicolaiciuc: terminat
+
+00:20:47.543,00:20:50.543
+Constantin Onofrei: terminat
+
+00:21:12.662,00:21:15.662
+Tudor Horomnea: terminat
+
+00:22:15.551,00:22:18.551
+Stefan-Gheorghe PENTIUC: //============================================
+int deplas = 10;
+codificare(“fisier_clar.txt”, “fis_cifrat.txt”, deplas);
+// ....................................................
+
+String s = citireMinimNCaractere(“fis_cifrat.txt”, 100);
+for(int d=1; d<26;d++){
+	System.out.println(d + ”: ” + Cifru.Cezar(s, d) );
+}
+// care este deplasarea corecta ? (dcorect)
+codificare(“fisier_cifrat.txt”, “fis_decifrat.txt”, dcorect);
+
+
+00:31:49.308,00:31:52.308
+Constantin Ududec: terminat primul
+
+00:33:28.606,00:33:31.606
+Andreea Cristina Munteanu: am terminat primul. 
+
+00:40:44.655,00:40:47.655
+Tudor Horomnea: terminat cifrarea
+
+00:40:48.509,00:40:51.509
+Tudor Horomnea: acum fac decifrarea
+
+00:42:17.284,00:42:20.284
+Andrei Croitoriu: terminat primul
+
+00:50:49.409,00:50:52.409
+Valentin Boghean: terminat descifrare prin prima metoda
+
+00:51:04.490,00:51:07.490
+Ştefan Şovea: terminat cifrarea, incerc acum descifrarea
+
+00:51:26.554,00:51:29.554
+Tudor Horomnea: terminat
+
+00:51:59.764,00:52:02.764
+Tudor Horomnea: cu tot cu decifrare si citireMinimNCaractere
+
+00:54:03.000,00:54:06.000
+Andrei Tudor Ventuneac: am terminat cifrarea si lucrez la descifrare
+
+00:58:18.211,00:58:21.211
+Alin Petru Tanasă: am terminat cifrarea
+
+01:01:56.727,01:01:59.727
+Stefan-Gheorghe PENTIUC: q = 14,19%  r = 12,90%  j = 10,32%  z = 9,03%  p = 8,39%  u = 7,10%  w = 7,10%  i = 4,52%  k = 4,52%  b = 3,87%  c = 2,58%  l = 2,58%  o = 2,58%  v = 2,58%  t = 1,94%  x = 1,94%  e = 1,29%  g = 1
+
+01:33:00.542,01:33:03.542
+Stefan-Gheorghe PENTIUC: /============================================
+int deplas = 10;
+codificare(“fisier_clar.txt”, “fis_cifrat.txt”, deplas);
+// ....................................................
+
+String s = citireMinimNCaractere(“fis_cifrat.txt”, 100);
+for(int d=1; d<26;d++){
+	System.out.println(d + ”: ” + Cifru.Cezar(s, d) );
+}
+// care este deplasarea corecta ? (dcorect)
+codificare(“fisier_cifrat.txt”, “fis_decifrat.txt”, dcorect);
+
+01:44:04.957,01:44:07.957
+Tudor Horomnea: terminat
+
+01:51:31.754,01:51:34.754
+Valentin Boghean: si eu
+
+01:53:34.270,01:53:37.270
+Stefan-Gheorghe PENTIUC: q = 14,19%  r = 12,90%  j = 10,32%  z = 9,03%  p = 8,39%  u = 7,10%  w = 7,10%  i = 4,52%  k = 4,52%  b = 3,87%  c = 2,58%  l = 2,58%  o = 2,58%  v = 2,58%  t = 1,94%  x = 1,94%  e = 1,29%  g = 1,29%  n = 1,29%  
+
+02:00:57.370,02:01:00.370
+Andrei Croitoriu: Eu trebuie sa plec. Va las prezenta: Croitoriu Andrei 3131C
+
+02:01:32.346,02:01:35.346
+Sandu Jitari: O zi buna sa aveți
+
+02:02:23.054,02:02:26.054
+Valentin Boghean: Boghean Valentin 3131C
+
+02:02:25.853,02:02:28.853
+Ionuț George Nicolaiciuc: Nicolaiciuc Ionut-George 3131C
+
+02:02:26.454,02:02:29.454
+Sandu Jitari: Jitari Sandu 3131C
+
+02:02:27.955,02:02:30.955
+Ştefan Şovea: Sovea Stefan, 3131C
+
+02:02:29.252,02:02:32.252
+Andrei Tudor Ventuneac: Ventuneac Andrei 3131C
+
+02:02:29.838,02:02:32.838
+Constantin Ududec: Constantin Ududec 3131C
+
+02:02:29.883,02:02:32.883
+Constantin Onofrei: Onofrei  Constantin 3131C
+
+02:02:30.036,02:02:33.036
+Sebastian Amarandei: Amarandei Sebastian 3132A
+
+02:02:48.867,02:02:51.867
+Tudor Horomnea: Horomnea Tudor 3131A
+
+02:02:53.613,02:02:56.613
+Alin Petru Tanasă: Tanasa Alin Petru 3131C
+
+02:02:57.386,02:03:00.386
+Constantin Ududec: Prezent
+
+02:03:20.089,02:03:23.089
+Sandu Jitari: Prezent
+
+02:04:44.281,02:04:47.281
+Andreea Cristina Munteanu: Munteanu Andreea-Cristina 3143B (credit restant)
+
+02:05:08.690,02:05:11.690
+Sebastian Amarandei: La revedere
+
+02:05:15.303,02:05:18.303
+Constantin Ududec: La revedere!
+
+02:05:17.254,02:05:20.254
+Constantin Onofrei: la revedere
+
